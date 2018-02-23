@@ -1,0 +1,10 @@
+helloworld_cli
+test_version
+*.a
+Makefile
+Testing
+version.h
+*.cmake
+CMakeCache.txt
+CMakeFiles
+
